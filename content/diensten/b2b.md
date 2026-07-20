@@ -32,3 +32,11 @@ Heb je een technische tekening klaarliggen of wil je de mogelijkheden voor jouw 
 {{< cards cols="1" >}} 
   {{< card link="../../contact" title="Vraag offerte aan" icon="shopping-bag" >}}
 {{< /cards >}}
+
+---
+
+# Hoe zit het met de kosten?
+
+Omdat elke 3D-print uniek is, werk ik niet met vaste prijzen. De prijs wordt berekend op basis van een startprijs, grammage van het materiaal en eventuele nabewerking. Stuur je STL- of STEP-bestand mee via het contactformulier, en je ontvangt snel een helder en vrijblijvend prijsvoorstel op maat.
+
+Mijn algemene formule is €12,00 + 2 × filamentkost
