@@ -14,7 +14,7 @@ Ik ben Jasper, de drijvende kracht achter JasperVdB | Additive Manufacturing. He
 
 **Persoonlijk Contact -** Ik werk in tegenstelling tot anderen niet met een ticketsysteem of een trage helpdesk. Ik doe alles zelf en sta in direct contact met mijn klanten. Ik werk samen met jou aan je project en design. Wensen van de klant kunnen altijd besproken worden en zullen dan ook worden doorgevoerd.
 
-**Kwaliteit boven Kwantiteit -** Ik kies bewust voor topmaterialen, allemaal uit Europa, meer specifiek van bij de noorderburen. MT3D Filament voldoet aan al mijn eisen en is beschikbaar in een groot spectrum aan kleuren en materialen.
+**Kwaliteit boven Kwantiteit -** Ik kies bewust voor topmaterialen, allemaal uit Europa, meer specifiek van bij de noorderburen. TM3D Filament voldoet aan al mijn eisen en is beschikbaar in een groot spectrum aan kleuren en materialen.
 
 **Flexibiliteit -** Van een enkel uniek prototype voor een particulier tot consistente kleine productieseries voor een bedrijf, ik doe het allemaal. Betrouwbaar vakmanschap is hier te vinden.
 
