@@ -25,8 +25,16 @@ menu:
       pageRef: /about
       weight: 2
     - name: Diensten
-      url: /diensten
+      identifier: diensten
       weight: 3
+    - name: Particulier
+      pageRef: /diensten/particulier
+      parent: diensten
+      weight: 1
+    - name: B2B
+      pageRef: /diensten/b2b
+      parent: diensten
+      weight: 2
     - name: Contact
       pageRef: /contact
       weight: 4
