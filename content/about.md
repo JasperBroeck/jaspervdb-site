@@ -28,5 +28,5 @@ Ik werk enkel met hoogwardige apparatuur die allemaal zorgvuldig gekalibreerd wo
 
 {{< cards cols="2" >}}
   {{< card link="../#Diensten" title="Zie diensten" icon="office-building" >}}
-  {{< card link="../contact" title="Vraag offerte aan" icon="shopping-bag" >}}
+  {{< card link="/contact" title="Vraag offerte aan" icon="shopping-bag" >}}
 {{< /cards >}}
