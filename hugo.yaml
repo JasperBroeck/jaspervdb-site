@@ -42,16 +42,8 @@ menu:
       pageRef: /faq
       weight: 4
     - name: Materialen
-      identifier: material
       weight: 5
-    - name: TM3D Filament
-      parent: material
-      weight: 1
       url: "https://tm3dfilament.nl/collections/all-filament"
-    - name: Vergelijking
-      parent: material
-      weight: 2
-      pageRef: /materialen
 
 params:
   navbar:
