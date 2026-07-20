@@ -18,29 +18,21 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Home
+      pageRef: /
       weight: 1
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: Diensten
+      url: /diensten
       weight: 3
-    - name: Search
+    - name: Contact
+      pageRef: /about
       weight: 4
-      params:
-        type: search
-    - name: GitHub
+    - name: Materialen
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
+      url: "https://tm3dfilament.nl"
 
 params:
   navbar:
