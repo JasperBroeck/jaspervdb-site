@@ -21,3 +21,7 @@ Ik geef ook advies waar nodig over de juiste materiaalkeuze. bijv. het gebruik v
 ---
 
 Heb je een STL-bestand of een idee? Vraag direct een offerte aan of stuur een bericht via het contactformulier.
+
+{{< cards cols="1" >}}
+  {{< card link="../contact" title="Vraag offerte aan" icon="shopping-bag" >}}
+{{< /cards >}}
