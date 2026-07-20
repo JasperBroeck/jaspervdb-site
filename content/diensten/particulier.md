@@ -28,6 +28,8 @@ Heb je een STL-bestand of een idee? Vraag direct een offerte aan of stuur een be
   {{< card link="../../contact" title="Vraag offerte aan" icon="shopping-bag" >}}
 {{< /cards >}}
 
+---
+
 # Hoe zit het met de kosten?
 
 Omdat elke 3D-print uniek is, werk ik niet met vaste prijzen. De prijs wordt berekend op basis van een startprijs, grammage van het materiaal en eventuele nabewerking. Stuur je STL- of STEP-bestand mee via het contactformulier, en je ontvangt snel een helder en vrijblijvend prijsvoorstel op maat.
