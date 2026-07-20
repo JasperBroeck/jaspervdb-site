@@ -1,8 +1,7 @@
 ---
 title: About
 type: page
-sidebar:
-  hide: true
+toc: false
 ---
 
 ## Wie ben ik?
