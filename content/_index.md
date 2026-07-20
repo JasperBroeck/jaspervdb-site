@@ -1,10 +1,10 @@
 ---
-title: JasperVdB | Additive Manufacturing
+title:
 toc: false
 type: about
 ---
 
----
+# JasperVdB | Additive Manufacturing
 
 Van uniek prototype tot kleine productieseries in eigen beheer.
 
