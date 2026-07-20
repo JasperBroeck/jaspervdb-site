@@ -1,3 +1,5 @@
+baseURL: "https://jaspervdb.be/"
+
 # Hugo configuration file
 title: JasperVdB | Additive Manufacturing
 
