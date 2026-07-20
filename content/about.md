@@ -4,13 +4,13 @@ type: about
 toc: false
 ---
 
-## Wie ben ik?
+# Wie ben ik?
 
 Ik ben Jasper, de drijvende kracht achter JasperVdB | Additive Manufacturing. Het begon allemaal bij de aankoop van mijn eerste 3D printer, maar deze grote interesse groeide al snel uit tot een passie en nu dus zelfs een professionele printservice.
 
 ---
 
-## Mijn Aanpak & Waarom voor mij kiezen?
+# Mijn Aanpak & Waarom voor mij kiezen?
 
 **Persoonlijk Contact -** Ik werk in tegenstelling tot anderen niet met een ticketsysteem of een trage helpdesk. Ik doe alles zelf en sta in direct contact met mijn klanten. Ik werk samen met jou aan je project en design. Wensen van de klant kunnen altijd besproken worden en zullen dan ook worden doorgevoerd.
 
@@ -20,7 +20,7 @@ Ik ben Jasper, de drijvende kracht achter JasperVdB | Additive Manufacturing. He
 
 ---
 
-## Apparatuur & Kwaliteit
+# Apparatuur & Kwaliteit
 
 Ik werk enkel met hoogwardige apparatuur die allemaal zorgvuldig gekalibreerd wordt voor nauwe toleraties. Kwaliteitscontrole stel ik ook hoog in het vaandel, zo passeert elk stuk langs mijn strenge kwaliteitscontrole voor het de deur uitgaat.
 
