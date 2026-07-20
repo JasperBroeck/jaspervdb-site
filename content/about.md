@@ -1,6 +1,5 @@
 ---
 title: About
-type: page
 toc: false
 ---
 
