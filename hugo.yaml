@@ -28,7 +28,7 @@ menu:
       url: /diensten
       weight: 3
     - name: Contact
-      pageRef: /about
+      pageRef: /contact
       weight: 4
     - name: Materialen
       weight: 5
