@@ -1,6 +1,6 @@
 ---
 title:
-type: about
+type: page
 ---
 
 # About
