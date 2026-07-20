@@ -15,6 +15,24 @@ Van uniek prototype tot kleine productieseries in eigen beheer.
   {{< card link="about" title="Bekijk Materialen" icon="color-swatch" >}}
 {{< /cards >}}
 
+# Hoe het werkt
+
+{{% steps %}}
+
+### Step 1
+
+Upload je STL bestanden via het bestelformulier.
+
+### Step 2
+
+Ik controleer je bestanden op printbaarheid en lever je een prijsvoorstel.
+
+### Step 3
+
+Na akkoord en betaling wordt er geprint, afgewerkt en verzonden/afgehaald.
+
+{{% /steps %}}
+
 # Diensten
 
 {{< cards >}}
