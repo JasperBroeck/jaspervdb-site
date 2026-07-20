@@ -53,7 +53,7 @@ params:
       path: logo/logo.svg
       dark: logo/logo-dark.svg
       link: /
-      width: 40
+      width: 30
       height: 20
   footer:
     displayCopyright: true
