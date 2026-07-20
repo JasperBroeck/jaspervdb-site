@@ -1,10 +1,6 @@
 ---
-title:
+title: About
 type: page
----
-
-# About
-
 ---
 
 ## Wie ben ik?
