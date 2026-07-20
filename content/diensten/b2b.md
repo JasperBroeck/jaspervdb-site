@@ -19,7 +19,7 @@ Professionele prototypes en kleine productieseries op maat. Hoge nauwkeurigheid 
 
 # Waarom samenwerken met JasperVdB?
 
-* **Kwaliteit en consistentie -** Exclusief gebruik van hoogwaardige filamenten (zoals topkwaliteit MT3D) voor betrouwbare mechanische eigenschappen en een strakke afwerking.
+* **Kwaliteit en consistentie -** Exclusief gebruik van hoogwaardige filamenten (zoals topkwaliteit TM3D) voor betrouwbare mechanische eigenschappen en een strakke afwerking.
 * **Direct en helder contact -** Geen trage corporatiestructuren, maar korte lijntjes en rechtstreeks overleg met de maker voor een flexibele planning.
 * **In eigen beheer -** Volledige controle over het productieproces, van bestandanalyse tot nabewerking en kwaliteitscontrole.
 
