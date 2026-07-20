@@ -8,8 +8,11 @@ type: about
 
 Van uniek prototype tot kleine productieseries in eigen beheer.
 
-{{< cards >}}
+{{< cards cols="1" >}}
   {{< card link="offerte" title="Vraag offerte aan" icon="clipboard" >}}
+{{< /cards >}}
+
+{{< cards >}}
   {{< card link="docs" title="Bekijk Diensten" icon="office-building" >}}
   {{< card link="about" title="Bekijk Materialen" icon="color-swatch" >}}
 {{< /cards >}}
