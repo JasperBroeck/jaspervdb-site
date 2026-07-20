@@ -26,5 +26,5 @@ Ik werk enkel met hoogwardige apparatuur die allemaal zorgvuldig gekalibreerd wo
 ---
 
 {{< cards cols="1" >}}
-  {{< card link="/contact" title="Vraag offerte aan" icon="shopping-bag" >}}
+  {{< card link="../contact" title="Vraag offerte aan" icon="shopping-bag" >}}
 {{< /cards >}}
