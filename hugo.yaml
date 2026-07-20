@@ -48,10 +48,10 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: true
+    displayLogo: false
     logo:
-      path: static/logo.svg
-      dark: static/logo-dark.svg
+      path: static/logo/logo.svg
+      dark: static/logo/logo-dark.svg
       link: /
       width: 40
       height: 20
