@@ -67,3 +67,5 @@ params:
     width: full
   sidebar:
     enable: false
+    open: false
+    collapsible: false
