@@ -2,6 +2,8 @@
 title:
 toc: false
 type: page
+sidebar:
+  exclude: true
 ---
 
 # JasperVdB | Additive Manufacturing
