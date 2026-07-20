@@ -25,6 +25,8 @@ Gemiddeld wordt een print binnen de 4 dagen (na betaling) geproduceerd en verzon
 Jazeker! Afhalen in Edegem is mogelijk en kost niets extra. Anders wordt het zorgvuldig verpakt en verzonden. De verzendkosten zijn volledig voor de klant.
 {{< /details >}}
 
+---
+
 # Veelgestelde Vragen - Bedrijven (B2B)
 
 {{< details title="Kan ik bij jullie terecht voor kleine productseries?" closed="true" >}}
