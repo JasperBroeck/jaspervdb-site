@@ -4,6 +4,8 @@ toc: false
 type: about
 ---
 
+---
+
 Van uniek prototype tot kleine productieseries in eigen beheer.
 
 {{< cards >}}
