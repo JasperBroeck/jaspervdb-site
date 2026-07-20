@@ -6,7 +6,7 @@ toc: false
 
 # Wie ben ik?
 
-Ik ben Jasper, de drijvende kracht achter JasperVdB | Additive Manufacturing. Het begon allemaal bij de aankoop van mijn eerste 3D printer, maar deze grote interesse groeide al snel uit tot een passie en nu dus zelfs een professionele printservice.
+Ik ben Jasper, de drijvende kracht achter JasperVdB | Additive Manufacturing. Het begon allemaal bij de aankoop van mijn eerste 3D printer, maar deze grote interesse groeide al snel uit tot een passie en nu dus zelfs een professionele printservice
 
 ---
 
