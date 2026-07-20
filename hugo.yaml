@@ -46,14 +46,11 @@ params:
   navbar:
     displayTitle: true
     displayLogo: false
-
   footer:
     displayCopyright: false
     displayPoweredBy: true
-
   editURL:
     enable: true
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
-
   pages:
-    width: wide
+    width: full
