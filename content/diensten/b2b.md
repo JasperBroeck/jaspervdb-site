@@ -44,3 +44,7 @@ Bij JasperVDB Additive Manufacturing kies je voor heldere en eerlijke tarieven z
 * **Nabewerking & CAD-voorbereiding -** € 18,00 per uur *(uitsluitend indien van toepassing en vooraf besproken)*
 
 Bij JasperVdB Additive Manufacturing kom je dus niet voor verassingen te staan. De prijsbepaling die je via mail ontvangt zal altijd volgens deze formule opgesteld worden.
+
+{{< cards cols="1" >}} 
+  {{< card link="../../faq" title="Veelgestelde Vragen" icon="question-mark-circle" >}}
+{{< /cards >}}
