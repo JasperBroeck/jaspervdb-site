@@ -35,8 +35,12 @@ Heb je een technische tekening klaarliggen of wil je de mogelijkheden voor jouw 
 
 ---
 
-# Hoe zit het met de kosten?
+# Transparante Prijzen voor Bedrijven
 
-Omdat elke 3D-print uniek is, werk ik niet met vaste prijzen. De prijs wordt berekend op basis van een startprijs, grammage van het materiaal en eventuele nabewerking. Stuur je STL- of STEP-bestand mee via het contactformulier, en je ontvangt snel een helder en vrijblijvend prijsvoorstel op maat.
+Bij JasperVDB Additive Manufacturing kies je voor heldere en eerlijke tarieven zonder verborgen kosten. Voor zakelijke opdrachten en kleine productieseries hanteren we een transparante opbouw:
 
-Mijn algemene formule is €12,00 + 2 × filamentkost
+* **Basisopstart & Handeling -** € 12,00 per printopdracht
+* **Materiaalkosten -** 2× de werkelijke filamentkost
+* **Nabewerking & CAD-voorbereiding -** € 18,00 per uur *(uitsluitend indien van toepassing en vooraf besproken)*
+
+Bij JasperVdB Additive Manufacturing kom je dus niet voor verassingen te staan. De prijsbepaling die je via mail ontvangt zal altijd volgens deze formule opgesteld worden.
