@@ -48,7 +48,7 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
     logo:
       path: static/logo/logo.svg
       dark: static/logo/logo-dark.svg
