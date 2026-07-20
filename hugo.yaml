@@ -52,7 +52,7 @@ params:
     logo:
       path: logo/logo.svg
       dark: logo/logo-dark.svg
-      link: /
+      link: https://jaspervdb.be
       width: 25
       height: 20
   footer:
