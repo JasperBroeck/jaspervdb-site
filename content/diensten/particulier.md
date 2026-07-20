@@ -13,6 +13,8 @@ Van een kapot huishoudelijk onderdeel tot je eigen unieke creatie. Snel geregeld
 - **Hobby & Projecten -** Modelbouw-ondedelen, miniaturen of custom organizers. Zo goed als alles wat je kunt bedenken voor eigen projecten kan geprint worden!
 - **Eigen ontwerpen -** Heb je zelf iets getekend in CAD (of een bestandje gedownload van internet)? Ik print het voor jou uit hoogwaardig filament.
 
+---
+
 # Waarom via mij
 
 Ik doe geen massaproductie, maar werk persoonlijk met klanten om een kwaliteitsvolle print te komen.
