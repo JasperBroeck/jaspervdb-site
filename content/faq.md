@@ -10,7 +10,7 @@ Je kunt je STL- of STEP-bestand direct uploaden via het contactformulier of door
 {{< /details >}}
 
 {{< details title="Welke materialen gebruiken jullie?" closed="true" >}}
-Wij printen exclusief met MT3D filamenten van topkwaliteit. Dit garandeert constante kleurechtheid, maatnauwkeurigheid en sterke printresultaten. Momenteel werken we nog een kleine stock aan e-sun filamenten op.
+Wij printen exclusief met TM3D filamenten van topkwaliteit. Dit garandeert constante kleurechtheid, maatnauwkeurigheid en sterke printresultaten. Momenteel werken we nog een kleine stock aan e-sun filamenten op.
 {{< /details >}}
 
 {{< details title="Hoe wordt de prijs berekend?" closed="true" >}}
