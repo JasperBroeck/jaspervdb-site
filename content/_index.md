@@ -8,7 +8,7 @@ type: about
 
 Van uniek prototype tot kleine productieseries in eigen beheer.
 
-![landscape](assets/image.jpg)
+![landscape](assets/image.webp)
 
 {{< cards >}}
   {{< card link="offerte" title="Vraag offerte aan" icon="clipboard" >}}
