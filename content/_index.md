@@ -1,15 +1,14 @@
 ---
-title: My Site
+title: JasperVdB | Additive Manufacturing
 toc: false
 ---
 
-This is the landing page.
-
-## Explore
+Van uniek prototype tot kleine productieseries in eigen beheer.
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="offerte" title="Vraag offerte aan" icon="clipboard" >}}
+  {{< card link="docs" title="Bekijk Diensten" icon="office-building" >}}
+  {{< card link="about" title="Bekijk Materialen" icon="color-swatch" >}}
 {{< /cards >}}
 
 ## Documentation
