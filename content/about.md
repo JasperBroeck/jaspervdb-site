@@ -19,6 +19,6 @@ Ik ben Jasper, de drijvende kracht achter JasperVdB | Additive Manufacturing. He
 
 Ik werk enkel met hoogwardige apparatuur die allemaal zorgvuldig gekalibreerd wordt voor nauwe toleraties. Kwaliteitscontrole stel ik ook hoog in het vaandel, zo passeert elk stuk langs mijn strenge kwaliteitscontrole voor het de deur uitgaat.
 
-{{< cards >}}
+{{< cards cols="1" >}}
   {{< card link="contact" title="Callout" icon="shopping-bag" >}}
 {{< /cards >}}
