@@ -31,3 +31,7 @@ Verschillende materialen hebben verschillende eigenschappen, zo ook verschillend
   {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+
+PLA is by far het meest gebruikte materiaal en is geschikt voor de meeste toepassingen van 3D printen. Voor bepaalde projecten kies je beter een gespecialiseerd filament of materiaal. Aan een klein blokje PETG kun je een auto voorttrekken, PLA zou meteen breken. Zo zie je maar hoe groot het verschil kan zijn. Van TPU kun je een telefoonhoesje printen, PLA hoesjes zouden waarschijnlijk niet veel bescherming bieden en meteen breken.
