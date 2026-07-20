@@ -38,8 +38,11 @@ menu:
     - name: Contact
       pageRef: /contact
       weight: 4
-    - name: Materialen
+    - name: FAQ
+      pageRef: /faq
       weight: 5
+    - name: Materialen
+      weight: 6
       url: "https://tm3dfilament.nl/collections/all-filament"
 
 params:
