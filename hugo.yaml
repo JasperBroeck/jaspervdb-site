@@ -40,7 +40,7 @@ menu:
       weight: 4
     - name: Materialen
       weight: 5
-      url: "https://tm3dfilament.nl"
+      url: "https://tm3dfilament.nl/collections/all-filament"
 
 params:
   navbar:
