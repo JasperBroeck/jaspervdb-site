@@ -11,7 +11,7 @@ Van uniek prototype tot kleine productieseries in eigen beheer.
 ![landscape](assets/image.webp)
 
 {{< cards cols="2" >}}
-  {{< card link="/contact" title="Vraag offerte aan" icon="clipboard" >}}
+  {{< card link="contact" title="Vraag offerte aan" icon="clipboard" >}}
   {{< card link="https://tm3dfilament.nl/" title="Bekijk Materialen" icon="color-swatch" tag="TM3D Filament" tagColor="amber" tagIcon="external-link" tagBorder=false >}}
 {{< /cards >}}
 
