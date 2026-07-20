@@ -47,8 +47,8 @@ params:
     displayTitle: true
     displayLogo: false
   footer:
-    displayCopyright: false
-    displayPoweredBy: true
+    displayCopyright: true
+    displayPoweredBy: false
     copyright: "© 2026 JasperVdB | Additive Manufacturing. Alle rechten voorbehouden."
   editURL:
     enable: true
