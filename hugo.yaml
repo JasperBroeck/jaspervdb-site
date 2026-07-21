@@ -70,3 +70,6 @@ params:
   theme:
     default: light
     displayToggle: false
+  banner:
+    key: 'announcement-xxx'
+    message: "🎉 Welcome! [Hextra](https://github.com/hextra/hextra) is a static site generator that helps you build modern websites."
