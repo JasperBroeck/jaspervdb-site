@@ -1,5 +1,5 @@
 ---
-title: Offerte
+title:
 toc: false
 ---
 
