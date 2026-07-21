@@ -10,6 +10,8 @@ sidebar:
   Momenteel bevinden we ons in de opstartfase; officiële bestellingen en producties starten vanaf **september**. Heb je nu al een project, vraag of wil je vooraf al iets bespreken? [Neem gerust contact op](mailto:jaspervandenbroeck2@proton.me?subject=JasperVdB%20%7C%20Additive%20Manufacturing%20-%20%3COnderwerp%3E)!
 {{< /callout >}}
 
+---
+
 # JasperVdB | Additive Manufacturing
 
 Van uniek prototype tot kleine productieseries in eigen beheer.
