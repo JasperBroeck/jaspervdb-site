@@ -7,7 +7,7 @@ sidebar:
 ---
 
 {{< callout type="warning" >}}
-  Momenteel zitten we in de opstartfase, binnenkort nemen we bestellingen aan. Neem gerust contact op in geval er vragen zijn.
+  Momenteel bevinden we ons in de opstartfase; officiële bestellingen en producties starten vanaf **september**. Heb je nu al een project, vraag of wil je vooraf al iets bespreken? [Neem gerust contact op](mailto:jaspervandenbroeck2@proton.me?subject=JasperVdB%20%7C%20Additive%20Manufacturing%20-%20%3COnderwerp%3E)!
 {{< /callout >}}
 
 # JasperVdB | Additive Manufacturing
