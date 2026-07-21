@@ -68,7 +68,7 @@ params:
   search:
     enable: false
   theme:
-    default: light
+    default: dark
     displayToggle: false
   banner:
     key: 'announcement-xxx'
