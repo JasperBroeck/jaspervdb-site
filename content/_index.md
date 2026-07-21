@@ -6,6 +6,10 @@ sidebar:
   exclude: true
 ---
 
+{{< callout type="warning" >}}
+  Momenteel zitten we in de opstartfase, binnenkort nemen we bestellingen aan. Neem gerust contact op in geval er vragen zijn.
+{{< /callout >}}
+
 # JasperVdB | Additive Manufacturing
 
 Van uniek prototype tot kleine productieseries in eigen beheer.
