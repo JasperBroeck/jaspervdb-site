@@ -10,7 +10,7 @@ sidebar:
 
 Van uniek prototype tot kleine productieseries in eigen beheer.
 
-![landscape](assets/image.webp)
+![landscape](assets/image-3.webp)
 
 {{< cards cols="2" >}}
   {{< card link="contact" title="Vraag offerte aan" icon="clipboard" >}}
