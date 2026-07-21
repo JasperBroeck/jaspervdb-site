@@ -11,10 +11,12 @@ window.TallyConfig = {
   "formId": "rjbKQX",
   "popup": {
     "width": 380,
-    "open": {
-      "trigger": "time",
-      "ms": 1250
-    }
+    "emoji": {
+      "text": "✌️",
+      "animation": "head-shake"
+    },
+    "overlay": true,
+    "autoClose": 2500
   }
 };
 </script>
