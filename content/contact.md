@@ -17,3 +17,19 @@ toc: false
     <iframe data-tally-src="https://tally.so/r/1AgKBO?transparentBackground=1" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0" title="Bestelling"></iframe>
   </body>
 </html>
+
+
+<script>
+window.TallyConfig = {
+  "formId": "rjbKQX",
+  "popup": {
+    "width": 380,
+    "open": {
+      "trigger": "time",
+      "ms": 1250
+    }
+  }
+};
+</script>
+
+<script async src="https://tally.so/widgets/embed.js"></script>
