@@ -70,6 +70,3 @@ params:
   theme:
     default: dark
     displayToggle: false
-  banner:
-    key: 'announcement-xxx'
-    message: "Welkom, dit is onze nieuwe site! We accepteren binnenkort bestellingen!"
