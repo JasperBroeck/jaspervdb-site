@@ -67,3 +67,6 @@ params:
     width: full
   search:
     enable: false
+  theme:
+    default: light
+    displayToggle: false
