@@ -8,5 +8,5 @@ Bedankt voor het plaatsen van een bestelling! We gaan onmiddelijk aan de slag en
 JasperVdB | Additive Manufacturing.
 
 {{< cards cols="1" >}}
-  {{< card link="https://jaspervdb.be/" title="Terug naar startpagina" icon="home" >}}
+  {{< card link="../" title="Terug naar startpagina" icon="home" >}}
 {{< /cards >}}
